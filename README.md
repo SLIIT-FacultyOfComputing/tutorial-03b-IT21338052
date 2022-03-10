@@ -189,6 +189,5 @@ void print(int len, int wth) {
         << ", Width  : " << wth << endl;
 }
 
-// Implement the Input Function here
-```
+
 
